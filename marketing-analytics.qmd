@@ -1,0 +1,20 @@
+---
+title: "Marketing Analytics"
+listing: 
+  contents: listings
+  type: grid
+  categories: true
+  sort: 
+    - "index desc"
+---
+
+Below are selected projects and contributions that demonstrate my experience applying marketing analytics in both real estate and B2B environments. These examples reflect my ability to bridge creative execution with data strategy to drive business outcomes.
+
+Whether it's leading digital campaigns, optimizing regional sales, or turning property data into leasing insights, I consistently use marketing data to inform decision-making and improve performance.
+
+## What You’ll Find
+
+- **Digital Campaign Strategy:** Designing and executing content-driven marketing plans that grow engagement and visibility.
+- **Market & Property Analysis:** Applying research and data tools to guide pricing, leasing, and investment decisions.
+- **B2B Sales Enablement:** Using data insights to support partner relationships, product presentations, and growth strategies.
+- **Process Optimization:** Improving vendor coordination, budget workflows, and team communication through analytics and automation.

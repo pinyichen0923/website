@@ -1,0 +1,29 @@
+---
+title: "Hi, I'm Pin-Yi Chen"
+---
+
+
+::: {.columns}
+::: {.column width="30%"}
+![My Photo](photo.jpg){width=100% style="border-radius: 50%;"}
+:::
+::: {.column width="70%" style="padding-left: 3rem;"}
+I am a business-minded data wrangler who bridges marketing, real estate, and analytics. I specialize in transforming complex information into clear, engaging, and actionable insights.
+:::
+:::
+
+## About Me
+
+Hi! I am Pin-Yi Chen, an <span class="highlight"> MBA student at Cal Poly Pomona </span>, set to graduate in May 2025. Before graduate school, I worked in real estate marketing, sales, and business operations, which helped me develop a sharp understanding of customer needs, data-driven decision-making, and digital marketing.
+
+Currently, I am focused on developing advanced skills in data wrangling, business analytics, and marketing intelligence using R, Tidyverse, and Quarto. My strength lies in blending technical knowledge with communication and market sense. I thrive on solving problems and simplifying complexity, whether it's a dataset or a business challenge.
+
+
+
+## Let's Connect
+
+You can [email me](V.c25124914@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/pin-yi-c-b33591227).
+
+---
+
+*Welcome to my portfolio.*

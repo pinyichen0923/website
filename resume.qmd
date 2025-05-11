@@ -1,0 +1,70 @@
+---
+title: "Résumé"
+---
+
+```{r knit-resume, echo=FALSE, message=FALSE}
+rmarkdown::render(
+  "resume/Resume.Rmd",
+  output_format = "pdf_document",
+  output_file   = "Resume.pdf",
+  output_dir    = "resume",
+  quiet         = TRUE
+)
+```
+
+You can view a PDF version of my résumé [here](resume/Resume.pdf).
+
+# Professional Summary
+
+I'm a data-driven marketing analyst with experience developing interactive reports using R, Quarto, and modern data visualization tools to support business and marketing decisions. My recent projects focus on data wrangling, campaign performance analysis, and market insights, transforming raw datasets into actionable strategies. With a strong foundation in statistical analysis and storytelling, I specialize in building tools and dashboards that make complex marketing data clear, interactive, and decision-ready.
+
+# CERTIFICATIONS
+Licensed Real Estate Salesperson (California)
+
+
+# Technical Skills & Tools
+
+- **Data Wrangling:** R, Tidyverse, Quart
+- **Data Visualization:** Tableau, ggplot2
+- **Business Writing & Presentations**: Tableau
+- **Real Estate & B2B Sales Strategy**: Property Management Software
+- **Social Media Marketing**: Google Analytics 4
+- **Budget Planning & Market Research**: Excel, Google Sheets
+
+
+# Education
+
+| Degree                             | Year                          | Institution                | GPA        |
+| ---------------------------------- | ----------------------------- | ------------------------------------ | ------------------- |
+| Master of Business Administration  | Expected May 2025     | California State Polytechnic University, Pomona | 3.80   |
+
+# Work Experience
+
+### Marketing Specialist, Rega Group - Real Estate Property Manager 
+*May 2023 - Present*, *Covina, CA* 
+
+- Led digital marketing efforts using photography, video editing, and social media content creation.
+- Conducted property-level market analysis and optimized leasing strategies.
+- Improved budget planning, vendor coordination, and communication workflows using data-driven tools.
+
+
+---
+
+### Regional Manager, Bolide Technology Group Inc.
+*Jan 2023 - Apr 2023*, *San Dimas, CA*
+
+- Developed B2B client relationships and implemented sales strategies using data insights.
+- Delivered presentations and product demos to stakeholders.
+- Enhanced profitability through partner collaboration and sales optimization.
+
+
+---
+
+### Office Assistant, YIH KENT ALPHA LTD. 
+*Sept 2020 - Dec 2021*, *Taiwan*
+
+- Maintained business records and prepared contracts and project-related documentation.
+- Performed administrative and communication tasks using spreadsheets and professional writing.
+
+
+---
