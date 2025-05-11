@@ -1,0 +1,65 @@
+---
+name: Pin-Yi
+surname: Chen
+position: "Marketing Analyst | Data-Driven Strategy & Insights"
+phone: +1 (626)223-1514
+email: "V.c25124914@gmail.com"
+github: https://github.com/pinyichen0923
+linkedin: https://www.linkedin.com/in/pin-yi-c-b33591227
+date: "`r format(Sys.time(), '%B %Y')`"
+output: 
+  vitae::latexcv:
+    theme: classic
+header-includes:
+   - \usepackage{enumitem}
+   - \setlist[itemize]{nosep, left=0pt}
+   - \setlist[enumerate]{nosep, left=0pt}
+---
+
+# Professional Summary
+
+Detail-oriented and data-driven marketing professional with hands-on experience in **data wrangling**, **campaign analytics**, and **business reporting** using R, Quarto, and Tableau. Skilled in transforming complex datasets into actionable insights that drive strategic marketing decisions. Proven ability to bridge technical analysis with creative execution across real estate, B2B, and digital channels.
+
+# Certifications
+
+- Licensed Real Estate Salesperson – California
+
+# Technical Skills & Tools
+
+- **Data Analytics:** R, Tidyverse, dplyr, tidyr  
+- **Visualization & Reporting:** ggplot2, Tableau, Quarto  
+- **Marketing & Strategy:** Social Media Content, GA4, CRM Tools  
+- **Business Tools:** Excel, Google Sheets, Property Management Software  
+- **Languages:** English (fluent), Mandarin Chinese (native)
+
+# Education
+
+| Degree                                | Year                | Institution                                                | GPA  |
+|---------------------------------------|---------------------|-------------------------------------------------------------|------|
+| Master of Business Administration     | Expected May 2025   | California State Polytechnic University, Pomona             | 3.80 |
+
+# Work Experience
+
+## Marketing Specialist  
+**Rega Group – Real Estate Property Manager**  
+*May 2023 – Present · Covina, CA*
+
+- Directed digital content strategy using photography, video editing, and social media to enhance property visibility and tenant engagement.
+- Conducted local market research to improve leasing conversion rates and pricing strategies.
+- Streamlined budget tracking and vendor coordination through data-driven tools and reporting.
+
+## Regional Manager  
+**Bolide Technology Group Inc. – B2B Security Solutions**  
+*Jan 2023 – Apr 2023 · San Dimas, CA*
+
+- Managed regional client relationships and implemented sales strategies tailored to market insights.
+- Delivered product presentations and demos to support onboarding and retention.
+- Drove profitability by collaborating with partners and optimizing sales operations.
+
+## Administrative Assistant  
+**YIH KENT ALPHA LTD. – Manufacturing & Engineering Services**  
+*Sept 2020 – Dec 2021 · Taiwan*
+
+- Maintained operational records and drafted contracts and documentation for client projects.
+- Supported cross-functional coordination and communications using spreadsheets and formal correspondence.
+- Assisted in daily administrative processes and vendor follow-up across departments.

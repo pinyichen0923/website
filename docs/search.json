@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Pin-Yi Chen",
+    "section": "",
+    "text": "My Photo\n\n\n\nI am a business-minded data wrangler who bridges marketing, real estate, and analytics. I specialize in transforming complex information into clear, engaging, and actionable insights."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hi, I’m Pin-Yi Chen",
+    "section": "About Me",
+    "text": "About Me\nHi! I am Pin-Yi Chen, an  MBA student at Cal Poly Pomona , set to graduate in May 2025. Before graduate school, I worked in real estate marketing, sales, and business operations, which helped me develop a sharp understanding of customer needs, data-driven decision-making, and digital marketing.\nCurrently, I am focused on developing advanced skills in data wrangling, business analytics, and marketing intelligence using R, Tidyverse, and Quarto. My strength lies in blending technical knowledge with communication and market sense. I thrive on solving problems and simplifying complexity, whether it’s a dataset or a business challenge."
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Hi, I’m Pin-Yi Chen",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nYou can email me or connect on LinkedIn.\n\nWelcome to my portfolio."
+  },
+  {
+    "objectID": "strategic-marketing.html",
+    "href": "strategic-marketing.html",
+    "title": "Strategic Marketing",
+    "section": "",
+    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
+  },
+  {
+    "objectID": "strategic-marketing.html#real-estate-marketing-campaign-lease-up-strategy-for-rega-group",
+    "href": "strategic-marketing.html#real-estate-marketing-campaign-lease-up-strategy-for-rega-group",
+    "title": "Strategic Marketing",
+    "section": "Real Estate Marketing Campaign: Lease-Up Strategy for Rega Group",
+    "text": "Real Estate Marketing Campaign: Lease-Up Strategy for Rega Group\nIn this project, I led a digital content-driven campaign for a portfolio of residential properties in Southern California. Using photography, video, and social media insights, I developed an end-to-end strategy to improve leasing performance and tenant engagement.\nSkills Demonstrated:\n\nMarketing Strategy: Designed messaging and content tailored to renter demographics.\nData-Driven Targeting: Conducted competitor and area analysis to refine positioning.\nCreative Production: Captured on-site media to highlight key amenities and lifestyle appeal.\nPerformance Optimization: Tracked engagement metrics to refine paid and organic tactics."
+  },
+  {
+    "objectID": "strategic-marketing.html#b2b-sales-enablement-campaign-regional-gtm-support-at-bolide-technology",
+    "href": "strategic-marketing.html#b2b-sales-enablement-campaign-regional-gtm-support-at-bolide-technology",
+    "title": "Strategic Marketing",
+    "section": "B2B Sales Enablement Campaign: Regional GTM Support at Bolide Technology",
+    "text": "B2B Sales Enablement Campaign: Regional GTM Support at Bolide Technology\nThis initiative supported the rollout of B2B video surveillance systems across key territories in California. I partnered with account teams to deliver value-based presentations, refine sales decks, and improve regional partner engagement.\nSkills Demonstrated:\n\nSales Strategy Support: Analyzed client needs and industry trends to inform messaging.\nStakeholder Enablement: Delivered demo sessions and training materials for channel partners.\nAccount-Based Marketing (ABM): Tailored outreach for high-value business clients.\nPresentation Design: Created sales decks that aligned product value with client pain points."
+  },
+  {
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "Below are selected projects and contributions that demonstrate my experience applying marketing analytics in both real estate and B2B environments. These examples reflect my ability to bridge creative execution with data strategy to drive business outcomes.\nWhether it’s leading digital campaigns, optimizing regional sales, or turning property data into leasing insights, I consistently use marketing data to inform decision-making and improve performance."
+  },
+  {
+    "objectID": "marketing-analytics.html#what-youll-find",
+    "href": "marketing-analytics.html#what-youll-find",
+    "title": "Marketing Analytics",
+    "section": "What You’ll Find",
+    "text": "What You’ll Find\n\nDigital Campaign Strategy: Designing and executing content-driven marketing plans that grow engagement and visibility.\nMarket & Property Analysis: Applying research and data tools to guide pricing, leasing, and investment decisions.\nB2B Sales Enablement: Using data insights to support partner relationships, product presentations, and growth strategies.\nProcess Optimization: Improving vendor coordination, budget workflows, and team communication through analytics and automation."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Résumé",
+    "section": "",
+    "text": "You can view a PDF version of my résumé here.\n\nProfessional Summary\nI’m a data-driven marketing analyst with experience developing interactive reports using R, Quarto, and modern data visualization tools to support business and marketing decisions. My recent projects focus on data wrangling, campaign performance analysis, and market insights, transforming raw datasets into actionable strategies. With a strong foundation in statistical analysis and storytelling, I specialize in building tools and dashboards that make complex marketing data clear, interactive, and decision-ready.\n\n\nCERTIFICATIONS\nLicensed Real Estate Salesperson (California)\n\n\nTechnical Skills & Tools\n\nData Wrangling: R, Tidyverse, Quart\nData Visualization: Tableau, ggplot2\nBusiness Writing & Presentations: Tableau\nReal Estate & B2B Sales Strategy: Property Management Software\nSocial Media Marketing: Google Analytics 4\nBudget Planning & Market Research: Excel, Google Sheets\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nInstitution\nGPA\n\n\n\n\nMaster of Business Administration\nExpected May 2025\nCalifornia State Polytechnic University, Pomona\n3.80\n\n\n\n\n\nWork Experience\n\nMarketing Specialist, Rega Group - Real Estate Property Manager\nMay 2023 - Present, Covina, CA\n\nLed digital marketing efforts using photography, video editing, and social media content creation.\nConducted property-level market analysis and optimized leasing strategies.\nImproved budget planning, vendor coordination, and communication workflows using data-driven tools.\n\n\n\n\nRegional Manager, Bolide Technology Group Inc.\nJan 2023 - Apr 2023, San Dimas, CA\n\nDeveloped B2B client relationships and implemented sales strategies using data insights.\nDelivered presentations and product demos to stakeholders.\nEnhanced profitability through partner collaboration and sales optimization.\n\n\n\n\nOffice Assistant, YIH KENT ALPHA LTD.\nSept 2020 - Dec 2021, Taiwan\n\nMaintained business records and prepared contracts and project-related documentation.\nPerformed administrative and communication tasks using spreadsheets and professional writing."
+  }
+]
